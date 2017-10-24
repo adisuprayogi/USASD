@@ -2,7 +2,7 @@
 
 $server='localhost';
 $user='root';
-$password='16februari';
+$password='';
 $database='db_akun';
 
 $koneksi=mysql_connect($server,$user,$password)
